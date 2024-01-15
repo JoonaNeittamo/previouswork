@@ -5,5 +5,5 @@ Please download the file to see output, or open the "90percent_predictionAccurac
 Assignment was to make a network that learns from fminst dataset and can predict 10 categories. Extra task was to make it better than 80% test accuracy while not using test set in training. Only dense and dropout layers were allowed. 
 
 
-# "neural_network.py" & "image.png"
-An example of a self created neural network with Torch and an image of what it looks like
+# neural_networks folder
+Examples of a self created neural networks with Torch and an image of what it looks like
