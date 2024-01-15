@@ -8,6 +8,7 @@ Assignment was to make a network that learns from fminst dataset and can predict
 # neural_networks folder
 Examples of a self created neural networks with Torch and an image of what it looks like
 
+
 # self_gridworld folder
 Self created gridworld with multiple different tasks completed by myself. 
 Tasks included:
@@ -19,3 +20,13 @@ Tasks included:
 6. Have the goal randomly be at one of three locations, [8,12] [10,7] [17,17],  after each reset. What is the maximum reward? What kind of path is the agent taking now
 7. Make a "pit" that is 5 squares long between two goal positions. If the character steps into the pit, reset game
 8. Add the location of the goal to the observations
+
+
+# style_transfer folder'
+Includes
+1. A copy of my "to image style transfer" from colab using tensorflow with Python.
+2. Image examples for proof
+
+Code takes 2 folders from given parameters. In them are
+1. Styles, example. Vincent van Gogh's "Starry Night" or random picked abstract art
+2. Self-chosen images to be transferred styles to
