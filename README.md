@@ -7,3 +7,15 @@ Assignment was to make a network that learns from fminst dataset and can predict
 
 # neural_networks folder
 Examples of a self created neural networks with Torch and an image of what it looks like
+
+# self_gridworld folder
+Self created gridworld with multiple different tasks completed by myself. 
+Tasks included:
+1. Use tensorboard to visualize the training process 
+2. Find out how to save a model with stable baselines
+3. What is the max reward in the default environment? How long does it take to achieve it
+4. Increase the size of the game area to 25 by 25 and train the agent again, how long does the training take after increasing the size? What is the maximum reward now and why?
+5. Have the goal randomly change positions after each reset to a place that is not the starting position of the character "@" or a wall "#". What is happening? What happened to average reward and why?
+6. Have the goal randomly be at one of three locations, [8,12] [10,7] [17,17],  after each reset. What is the maximum reward? What kind of path is the agent taking now
+7. Make a "pit" that is 5 squares long between two goal positions. If the character steps into the pit, reset game
+8. Add the location of the goal to the observations
