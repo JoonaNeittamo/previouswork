@@ -1,20 +1,3 @@
-# Your final assignment is about creating a register / login functionality to your app.
-# You need to also associate each todo item created in the database with the corresponding logged-in user.
-# For storing and retrieving the users you ARE REQUIRED TO USE SQLAlchemy. if not using SQLAlchemy, then the whole assignment will give you a direct fail (0 points).
-
-# What you need to do:
-# First, create table for holding users. Class model should be called 'User' and name of the table should be 'users'.
-#   The users table should have at least the fields userId, username and password.
-#   Make sure that you also have foreign key relationship between the items and users tables and relationship created from both tables into each another.
-# Before your main application launches, it should ask the user if they want to REGISTER or LOGIN
-#   If user wants to REGISTER, the application should then ask the user for the username and password combination
-#      If user with this username already exists in the table users, app should notify about that and not create the new user
-#      If this username did not exist, create account for the user in the table users
-#   If user wants to LOGIN, then you need to ask user the username and password
-#      If the given username and password combination does not exist in the table users, then inform user about this and do not allow user into the system
-#      If this username and password combination exists in the table users, then allow the user in the system and store the user that logged in
-# Finally, you will also need to associate each item created with the logged-in user. This way each logged-in user will have their own todo items.
-
 from collections import UserDict
 import sys
 import os
