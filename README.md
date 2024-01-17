@@ -41,3 +41,6 @@ This app uses:
 
 Trained models will take over 15 minutes of time to train but reach 95% accuracy (and the dataset is not small so theres no catch).
 More info in the README of the app.
+
+# SQLAlchemy_Python_Engine folder
+A school assignment where the task was to create a simple DBMS using SQLAlchemy with SQLite as the engine
