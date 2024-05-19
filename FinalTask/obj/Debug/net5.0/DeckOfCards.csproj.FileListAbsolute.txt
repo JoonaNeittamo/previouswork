@@ -1,0 +1,16 @@
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\DeckOfCards.exe
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\DeckOfCards.deps.json
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\DeckOfCards.runtimeconfig.json
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\DeckOfCards.runtimeconfig.dev.json
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\DeckOfCards.dll
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\ref\DeckOfCards.dll
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\DeckOfCards.pdb
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\DeckOfCards.csprojAssemblyReference.cache
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\DeckOfCards.AssemblyInfoInputs.cache
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\DeckOfCards.AssemblyInfo.cs
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\DeckOfCards.csproj.CoreCompileInputs.cache
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\DeckOfCards.dll
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\ref\DeckOfCards.dll
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\DeckOfCards.pdb
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\DeckOfCards.genruntimeconfig.cache

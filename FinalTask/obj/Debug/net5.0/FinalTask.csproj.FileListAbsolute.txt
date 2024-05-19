@@ -1,0 +1,16 @@
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\FinalTask.exe
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\FinalTask.deps.json
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\FinalTask.runtimeconfig.json
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\FinalTask.runtimeconfig.dev.json
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\FinalTask.dll
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\ref\FinalTask.dll
+F:\C-Sharp\Assignment\FinalTask\bin\Debug\net5.0\FinalTask.pdb
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\FinalTask.csprojAssemblyReference.cache
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\FinalTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\FinalTask.AssemblyInfoInputs.cache
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\FinalTask.AssemblyInfo.cs
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\FinalTask.csproj.CoreCompileInputs.cache
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\FinalTask.dll
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\ref\FinalTask.dll
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\FinalTask.pdb
+F:\C-Sharp\Assignment\FinalTask\obj\Debug\net5.0\FinalTask.genruntimeconfig.cache
