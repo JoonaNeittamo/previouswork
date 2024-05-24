@@ -32,17 +32,6 @@ Code takes 2 folders from given parameters. In them are
 2. Self-chosen images to be transferred styles to
 
 
-# prediction_app_tkinter folder
-Prediction App created with TKinter by me with the help of Zhang Weihan in planning.
-This app uses:
-1. TKinter as a GUI
-2. Pandas for handling a specific dataset that is used for prediction
-3. RandomForestRegressor for training a model to predict with
-
-Trained models will take over 15 minutes of time to train but reach 95% accuracy (and the dataset is not small so theres no catch).
-More info in the README of the app.
-
-
 # SQLAlchemy_Python_Engine folder
 A school assignment where the task was to create a simple DBMS using SQLAlchemy with SQLite as the engine
 
