@@ -35,6 +35,8 @@ Neural style transfer is a technique that takes two images— a content image an
 Here are some example outputs of the neural style transfer process:
 
 ![Example Output](https://github.com/JoonaNeittamo/previouswork/blob/main/style_transfer/finalized_5_1000.jpeg)
+![Example Output](https://github.com/JoonaNeittamo/previouswork/blob/main/style_transfer/finalized_2_600.jpeg)
+
 
 ## Acknowledgements
 
