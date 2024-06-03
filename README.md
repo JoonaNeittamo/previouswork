@@ -40,3 +40,12 @@ A school assignment where the task was to create a simple DBMS using SQLAlchemy 
 Object Oriented Programming C# final task. Simplified version of Trick-taking game. 
 Fully functional game with screen clear user interface (in terminal that is). 
 Many requirements are listed in the .PDF file.
+
+
+# Train_RNN_Network
+Train a RNN model to predict which class and name is most fit. 
+Given tasks were:
+ - split 70% to train and 20 % for validation and 10 % test set, take first lines 70 % from each category to train set, 20 % next to validation set, and last items to test set.
+ - validate the model every 1000 iterations, and save the best model, over writing the previous best
+ - Teach network with different hyper parameters: number of iterations, learning rate, number of neurons in hidden layer, at least 10 different combinations, using train set.
+ - Run teaching with each parameters 10 times, test check accuracy with test set and calculate average accuracy with each parameters.
