@@ -49,3 +49,11 @@ Given tasks were:
  - validate the model every 1000 iterations, and save the best model, over writing the previous best
  - Teach network with different hyper parameters: number of iterations, learning rate, number of neurons in hidden layer, at least 10 different combinations, using train set.
  - Run teaching with each parameters 10 times, test check accuracy with test set and calculate average accuracy with each parameters.
+
+
+# LSTM_predict_underwater
+A group project to predict future sonar images from under water using LSTM's.
+My role was to create and tune the extraction tool inside the folder. The final product:
+- Took out 100 images (can be changed by the user) through multiple .csv files.
+- matched it up with the speed (data located in _speed.csv) and paired it up with 'cog', 'sog' and 'timestamp' from the topics_combined.csv
+- At the end a graph is shown with possible outcomes
